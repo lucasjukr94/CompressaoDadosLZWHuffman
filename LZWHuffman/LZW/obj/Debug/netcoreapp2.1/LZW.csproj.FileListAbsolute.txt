@@ -1,0 +1,10 @@
+C:\Users\ljeon\source\repos\LZWHuffman\LZW\bin\Debug\netcoreapp2.1\LZW.deps.json
+C:\Users\ljeon\source\repos\LZWHuffman\LZW\bin\Debug\netcoreapp2.1\LZW.runtimeconfig.json
+C:\Users\ljeon\source\repos\LZWHuffman\LZW\bin\Debug\netcoreapp2.1\LZW.runtimeconfig.dev.json
+C:\Users\ljeon\source\repos\LZWHuffman\LZW\bin\Debug\netcoreapp2.1\LZW.dll
+C:\Users\ljeon\source\repos\LZWHuffman\LZW\bin\Debug\netcoreapp2.1\LZW.pdb
+C:\Users\ljeon\source\repos\LZWHuffman\LZW\obj\Debug\netcoreapp2.1\LZW.csproj.CoreCompileInputs.cache
+C:\Users\ljeon\source\repos\LZWHuffman\LZW\obj\Debug\netcoreapp2.1\LZW.AssemblyInfoInputs.cache
+C:\Users\ljeon\source\repos\LZWHuffman\LZW\obj\Debug\netcoreapp2.1\LZW.AssemblyInfo.cs
+C:\Users\ljeon\source\repos\LZWHuffman\LZW\obj\Debug\netcoreapp2.1\LZW.dll
+C:\Users\ljeon\source\repos\LZWHuffman\LZW\obj\Debug\netcoreapp2.1\LZW.pdb

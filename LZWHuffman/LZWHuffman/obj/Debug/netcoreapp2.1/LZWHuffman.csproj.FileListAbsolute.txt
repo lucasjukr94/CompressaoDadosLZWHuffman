@@ -1,0 +1,11 @@
+C:\Users\ljeon\source\repos\LZWHuffman\LZWHuffman\bin\Debug\netcoreapp2.1\LZWHuffman.deps.json
+C:\Users\ljeon\source\repos\LZWHuffman\LZWHuffman\bin\Debug\netcoreapp2.1\LZWHuffman.runtimeconfig.json
+C:\Users\ljeon\source\repos\LZWHuffman\LZWHuffman\bin\Debug\netcoreapp2.1\LZWHuffman.runtimeconfig.dev.json
+C:\Users\ljeon\source\repos\LZWHuffman\LZWHuffman\bin\Debug\netcoreapp2.1\LZWHuffman.dll
+C:\Users\ljeon\source\repos\LZWHuffman\LZWHuffman\bin\Debug\netcoreapp2.1\LZWHuffman.pdb
+C:\Users\ljeon\source\repos\LZWHuffman\LZWHuffman\obj\Debug\netcoreapp2.1\LZWHuffman.csprojAssemblyReference.cache
+C:\Users\ljeon\source\repos\LZWHuffman\LZWHuffman\obj\Debug\netcoreapp2.1\LZWHuffman.csproj.CoreCompileInputs.cache
+C:\Users\ljeon\source\repos\LZWHuffman\LZWHuffman\obj\Debug\netcoreapp2.1\LZWHuffman.AssemblyInfoInputs.cache
+C:\Users\ljeon\source\repos\LZWHuffman\LZWHuffman\obj\Debug\netcoreapp2.1\LZWHuffman.AssemblyInfo.cs
+C:\Users\ljeon\source\repos\LZWHuffman\LZWHuffman\obj\Debug\netcoreapp2.1\LZWHuffman.dll
+C:\Users\ljeon\source\repos\LZWHuffman\LZWHuffman\obj\Debug\netcoreapp2.1\LZWHuffman.pdb
